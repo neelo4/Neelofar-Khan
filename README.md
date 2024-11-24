@@ -5,8 +5,6 @@
 
 ## 🚀 About Me
 - 🎨 Frontend Developer specializing in creating pixel-perfect UIs
-- 🌱 Currently learning [what you're learning]
-- 💡 Always excited about [your interests in tech]
 - ☕ Fueled by coffee and creativity
 
 ## 🛠️ Tech Stack

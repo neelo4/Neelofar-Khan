@@ -1,4 +1,4 @@
-# Neelofar-Khan
+# Neelofar Khan
 # Hello, fellow developers! 👋
 
 ✨ UI Developer crafting delightful interfaces | Making the web beautiful one component at a time 🎨

@@ -20,14 +20,9 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula)
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://www.linkedin.com/in/neelofar-khan-32b726b8/)
 
-## 📌 Pinned Projects
-- 🎨 [Project 1] - Brief description
-- 💻 [Project 2] - Brief description
-- 🚀 [Project 3] - Brief description
+
 
 <!-- Optional: Add a visitor counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
